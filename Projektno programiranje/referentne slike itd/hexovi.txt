@@ -1,0 +1,11 @@
+main orange - f26522
+
+prljava bijela - f4eeeb
+
+light orange - f7941d
+
+dark orange - cf4305
+
+hover button red - c51818
+
+siva - 1e1e1e

@@ -1,0 +1,28 @@
+﻿MUST
++1.Omogućiti korisniku pregled cjenika hrane (engl. Menu) integriranog u digitalnom obliku(HTML tablica).
++2.Omogućiti korisniku skidanje cjenika hrane na svoje vlastito računalo u PDF formatu.
++3.Omogućiti korisniku pregled osnovnih podataka Pečenjare Vrbik (adresa, kontakt, radno vrijeme, ostale potrebne informacije i napomene).
++4.Omogućiti korisniku pregled interaktivne karte s označenom lokacijom Pečenjare Vrbik.
+
+
+SHOULD
+ 1.Omogućiti korisniku interaktivni pregled galerije slika implementirane na web stranicu.
++2.Implementacija rasponzivnosti na web stranicu.
++3.Implementacija dizajna web stranice po najmodernijim normama.
+ 4.Omogućavanje korisniku ispunjavanje forme za naručivanje i slanje podataka skripti na serveru.
+
+
+COULD
+ 1.Omogućiti pregled narudžbi pomoću zasebnog sučelja za admina web stranice.
+ 2.Omogućiti korisniku prikaz web stranice na engleskom jeziku.
+ 3.Integracija cjenika hrane u bazu podataka.
+
+
+WON'T
+ 1.Omogućavanje korisniku ocjenjivanje jela s cjenika te pisanje komentara.
+ 2.Omogućavanje korisniku ubacivanje odabranih jela iz cjenika u digitalnu košaricu te narudžbu odabranih jela iz košarice.
+ 3.Implementacija bloga na web stranicu te omogućavanje adminu web stranice pisanje članaka.
+ 4.Redizajniranje postojećeg loga Pečenjare Vrbik.
+ 5.Omogućavanje dostave jela dronom (bespilotnom letjelicom).
+
+
